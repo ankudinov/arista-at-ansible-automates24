@@ -2,7 +2,7 @@
 marp: true
 # theme: descartes
 # theme: freud
-theme: turing
+theme: jobs
 author: Petr Ankudinov
 size: 16:9
 paginate: true
@@ -36,9 +36,11 @@ style: |
     }
 
 ---
-# Ansible AVD at Arista
+# Arista AVD
 
-the software fusion power
+<style scoped>p {font-size: 28px;}</style>
+
+How one Ansible collection ignited automation fusion power
 
 <!-- Do not add page number on this slide -->
 <!--
@@ -83,6 +85,24 @@ Jun 2024
 
 ![bg right vertical w:200](img/pa-photo.jpg)
 ![bg right vertical fit](img/gh-stats.png)
+
+---
+
+# Ansible AVD
+
+<style scoped>section {font-size: 20px;}</style>
+
+![bg right w:550](img/provisioning-building-blocks.png)
+
+- [AVD](https://avd.arista.com/) stands for Arista Validated Design as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
+- A very successful community project used to deploy EVPN based Data Center fabrics
+  - Around [250 stars on Github](https://github.com/aristanetworks/ansible-avd) and 86 contributors as of May 2024
+  - The most active Arista collection on [Ansible Galaxy](https://galaxy.ansible.com/arista/avd)
+- High level workflow:
+  - Define abstracted group/host vars using AVD data model
+  - Generate low level device specific variables (aka structured configs)
+  - Parse templates, build plain text configs
+  - Deliver configs to network devices using Ansible `arista.eos.eos_config` or CVP module
 
 ---
 
