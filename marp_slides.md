@@ -87,8 +87,14 @@ Jun 2024
   - Passionate DC and network automation engineer
   - Daily (and nightly) VSCode user
 
+- David Meyer
+
+  - Account Manager
+  - to-be-defined
+
 ![bg right vertical w:200](img/pa-photo.jpg)
 ![bg right vertical fit](img/gh-stats.png)
+![bg right w:200](img/david-photo.jpeg)
 
 ---
 
