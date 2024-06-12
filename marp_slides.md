@@ -140,6 +140,12 @@ Jun 2024
 
 ---
 
+# Arista Open CI
+
+![open-ci](img/open-ci.png)
+
+---
+
 # Demo
 
 <style scoped>section {font-size: 20px;}</style>
