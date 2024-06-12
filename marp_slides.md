@@ -88,6 +88,27 @@ Jun 2024
 
 ---
 
+# Arista
+
+<style scoped>section {font-size: 24px;}</style>
+
+![bg right fit](https://www.arista.com/assets/images/banner/home/800G-launch-Banner-Half.png)
+
+- from IPO in 2014 to 800G AI platforms in 2024
+- used by nearly every Cloud Titan
+- top DC vendor crown since Q4 2023
+- what helped us to grow
+  - single EOS image
+  - quality and testing
+  - customer focus
+  - programmability with APIs from the start
+
+<style scoped>p {font-size: 18px;}</style>
+
+> Not every switch had API in 2014. Some still managed by CLI screen scraping in 2024.
+
+---
+
 # Ansible AVD
 
 <style scoped>section {font-size: 20px;}</style>
