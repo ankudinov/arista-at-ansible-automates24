@@ -126,7 +126,7 @@ Jun 2024
 
 <style scoped>section {font-size: 20px;}</style>
 
-![bg right w:550](img/provisioning-building-blocks.png)
+![bg right w:550](img/provisioning-building-blocks-vertical.png)
 
 - [AVD](https://avd.arista.com/) stands for Arista Validated Design as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
 - A very successful community project used to deploy EVPN based Data Center fabrics
