@@ -21,6 +21,10 @@ style: |
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 1rem;
     }
+    .columns1 {
+      display: grid;
+      grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
     footer {
       font-size: 14px;
     }
@@ -88,7 +92,7 @@ Jun 2024
 
 ---
 
-# Arista
+# Arista Networks
 
 <style scoped>section {font-size: 24px;}</style>
 
@@ -101,11 +105,20 @@ Jun 2024
   - single EOS image
   - quality and testing
   - customer focus
+  - merchant silicon
   - programmability with APIs from the start
 
 <style scoped>p {font-size: 18px;}</style>
 
 > Not every switch had API in 2014. Some still managed by CLI screen scraping in 2024.
+
+---
+# AI - Top Market of the Future
+
+<div class="columns1">
+<div>
+<picture><img src="https://blogs.arista.com/hs-fs/hubfs/Arista%20(Marketing%20Only)/Images%20(Marketing%20Only)/Blog/JU-Blog-AI-Center.png?width=970&height=467&name=JU-Blog-AI-Center.png"></picture>
+</div>
 
 ---
 
