@@ -163,3 +163,5 @@ Jun 2024
 # Q&A
 
 - [Ansible AVD](https://avd.arista.com/)
+
+![w:300](img/qr-ansible-automates.png)
