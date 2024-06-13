@@ -266,12 +266,13 @@ slide to be created
 
 ---
 
-<style scoped>section {font-size: 45px;}</style>
+<style scoped>section {font-size: 40px;}</style>
 
 ![bg left opacity:80%](img/pexels-ann-h-7186206.jpg)
 
 # Q&A
 
 - [Ansible AVD](https://avd.arista.com/)
+- [Demo](https://arista-netdevops-community.github.io/one-click-se-demos/cvaas-cvaas-and-avd-demo--evpn-mlag/cvaas-cvaas-and-avd-demo--evpn-mlag/)
 
 ![w:300](img/qr-ansible-automates.png)
