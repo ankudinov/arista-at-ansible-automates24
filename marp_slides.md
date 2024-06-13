@@ -260,6 +260,7 @@ slide to be created
 <style scoped>section {font-size: 20px;}</style>
 
 ![bg right:25%](img/demo-time.jpeg)
+![demo](img/avd-codespace-demo-recording.gif)
 
 - to-be-defined
 
