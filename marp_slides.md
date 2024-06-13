@@ -141,6 +141,64 @@ Jun 2024
 
 ---
 
+# AVD Impact
+
+<style scoped>section {font-size: 18px;}</style>
+
+<div class="columns">
+<div>
+
+## Before
+
+Can automate, but crawling... 🐌
+
+- Write HLD
+- Write LLD
+- Build configuration tempates
+- Build a workshop materials and lab
+- write some custom scripts
+
+> All for one project. No standard, hard to share.
+
+</div>
+<div>
+
+## After
+
+Automate and walk! 🚶
+
+- Set of standard design templates
+- Design as a repository
+- Test in a virtual / container lab
+- Fix and deploy in prod
+- Interactive workshops as a repository
+
+> Easy to share and re-use. Helps to buld more useful content and tools.
+
+</div>
+</div>
+
+---
+
+# Ansible Brings Community Power
+
+![bg right:70% fit](img/ansible-chain-reaction.png)
+
+<style scoped>section {font-size: 18px;}</style>
+
+automation fusion @Arista:
+
+- Do the right thing!
+  (©️ Arista Way)
+- use it for your daily work
+- build as a community
+- everyone can contribute
+- What next?
+  - Running? 🏃
+  - Flying? 🚀
+
+---
+
 # Arista Open CI
 
 ![open-ci](img/open-ci.png)
