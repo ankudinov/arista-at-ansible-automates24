@@ -199,7 +199,7 @@ automation fusion @Arista:
 
 ---
 
-# A Small Example Of Ecosytem Changing the Game Rules
+# A Small Example Of Ecosytem Changi∏ng the Game Rules
 
 <style scoped>section {font-size: 22px;}</style>
 <style scoped>p {font-size: 18px;}</style>
@@ -227,9 +227,11 @@ automation fusion @Arista:
 
 ---
 
-# Customer Intro Placeholder
+# Rohde & Schwarz: One Company, Three Divisions, Diverse Markets. Reliable Technology Partner
 
-slide to be created
+<style scoped>section {font-size: 26px;}</style>
+
+![rs-intro](img/rs-intro.png)
 
 ---
 
@@ -251,9 +253,21 @@ slide to be created
 
 ---
 
-# Customer Gitlab CI Placeholder
+# Gitlab Pipeline With Arista Open CI
 
-slide to be created
+<style scoped>section {font-size: 18px;}</style>
+<style scoped>p {font-size: 16px;}</style>
+<style scoped>li {font-size: 16px;}</style>
+
+- Commit to the Git repository
+  - trigger GitLab CI/CD pipeline (only relevant systems are rendered)
+  - inform team members via chat service
+
+  ![w:450](img/ci-1.png) ![w:450](img/ci-chat-notification.png)
+
+- Manual runs trigger the pipeline for all subprojects
+
+    ![w:900](img/ci-2.png)
 
 ---
 
