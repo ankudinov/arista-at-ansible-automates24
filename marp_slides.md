@@ -199,6 +199,27 @@ automation fusion @Arista:
 
 ---
 
+# A Small Example Of Ecosytem Changing the Game Rules
+
+<style scoped>section {font-size: 18px;}</style>
+
+* We all love Ansible `-vvvvvvvvvvvviii!...` 😄
+* A life changing trick:
+
+  - have a container
+  - open and run the playbook in VSCode
+  - `Cmd + Click` (Mac users) on a cryptic error message
+    ![cmd-click](img/error-cmd-click.png)
+  - Change your code
+    ![change-code](img/container-code-change.png)
+  - Get a meaningful error message
+
+```text
+error='rpc error: code = PermissionDenied desc = user cannot write tag assignments they do not own'
+```
+
+---
+
 # Arista Open CI
 
 ![open-ci](img/open-ci.png)
