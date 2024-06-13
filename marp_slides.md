@@ -201,7 +201,8 @@ automation fusion @Arista:
 
 # A Small Example Of Ecosytem Changing the Game Rules
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 22px;}</style>
+<style scoped>p {font-size: 18px;}</style>
 
 * We all love Ansible `-vvvvvvvvvvvviii!...` 😄
 * A life changing trick:
@@ -214,9 +215,9 @@ automation fusion @Arista:
     ![change-code](img/container-code-change.png)
   - Get a meaningful error message
 
-```text
-error='rpc error: code = PermissionDenied desc = user cannot write tag assignments they do not own'
-```
+    ```text
+    error='rpc error: code = PermissionDenied desc = user cannot write tag assignments they do not own'
+    ```
 
 ---
 
@@ -234,7 +235,8 @@ slide to be created
 
 # It All Started with A Single vEOS-lab VM
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 24px;}</style>
+<style scoped>p {font-size: 20px;}</style>
 
 - Before any hardware got delivered on site we made extensive use of vEOS-LAB
   - ~90% feature complete version of EOS
@@ -261,8 +263,6 @@ slide to be created
 
 ![bg right:25%](img/demo-time.jpeg)
 ![demo](img/avd-codespace-demo-recording.gif)
-
-- to-be-defined
 
 ---
 
