@@ -122,14 +122,15 @@ Jun 2024
 
 ---
 
-# Ansible AVD
+# Arista AVD Ansible Collection
 
-<style scoped>section {font-size: 20px;}</style>
+<style scoped>section {font-size: 18px;}</style>
 
 ![bg right w:550](img/provisioning-building-blocks-vertical.png)
 
 - [AVD](https://avd.arista.com/) stands for Arista Validated Design as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
 - A very successful community project used to deploy EVPN based Data Center fabrics
+  - Ansible certified since November 2020
   - Around [250 stars on Github](https://github.com/aristanetworks/ansible-avd) and 101 contributors as of June 2024
   - The most active Arista collection on [Ansible Galaxy](https://galaxy.ansible.com/arista/avd)
 - High level workflow:
@@ -146,11 +147,40 @@ Jun 2024
 
 ---
 
+# Customer Intro Placeholder
+
+slide to be created
+
+---
+
+# It All Started with A Single vEOS-lab VM
+
+<style scoped>section {font-size: 18px;}</style>
+
+- Before any hardware got delivered on site we made extensive use of vEOS-LAB
+  - ~90% feature complete version of EOS
+  - runs on several industry standard hypervisors
+
+- Scale up - develop the entire automation chain from `git commit` to a CloudVision task
+
+- Moving from four deployed vEOS-lab VMs to EVE-NG as simulation platform
+  - multi-node cluster (AMD EPYC 7763 64-Core, 512GB RAM per node)
+  - over 100 vEOS instances forming multiple EVPN fabrics or single MLAG pairs
+  - simulate firewall crossings using vEOS or VyOS
+
+---
+
+# Customer Gitlab CI Placeholder
+
+slide to be created
+
+---
+
 # Demo
 
 <style scoped>section {font-size: 20px;}</style>
 
-![bg right](img/demo-time.jpeg)
+![bg right:25%](img/demo-time.jpeg)
 
 - to-be-defined
 
