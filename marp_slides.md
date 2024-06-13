@@ -199,7 +199,7 @@ automation fusion @Arista:
 
 ---
 
-# A Small Example Of Ecosytem Changi∏ng the Game Rules
+# A Small Example Of Ecosytem Changing the Game Rules
 
 <style scoped>section {font-size: 22px;}</style>
 <style scoped>p {font-size: 18px;}</style>
