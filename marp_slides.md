@@ -52,7 +52,7 @@ _paginate: false
 footer: '![h:20](https://www.arista.com/assets/images/logo/Arista_Logo.png)'
 -->
 
-![bg right](img/fusion-power-dalle3.jpeg)
+![bg right](img/fusion-power-dalle.jpg)
 
 ```python
 __author__ = "Petr Ankudinov, Arista EMEA AS"
@@ -118,7 +118,14 @@ Jun 2024
 
 # AI - Top Market of the Future
 
-![ai](https://blogs.arista.com/hs-fs/hubfs/Arista%20(Marketing%20Only)/Images%20(Marketing%20Only)/Blog/JU-Blog-AI-Center.png?width=970&height=467&name=JU-Blog-AI-Center.png)
+<!-- ![ai](https://blogs.arista.com/hs-fs/hubfs/Arista%20(Marketing%20Only)/Images%20(Marketing%20Only)/Blog/JU-Blog-AI-Center.png?width=970&height=467&name=JU-Blog-AI-Center.png) -->
+![bg right](img/800g-dc-dalle.jpg)
+
+- Scale out capacity
+- 800G to compute and zero oversubscription for high non-blocking traffic
+- Hangling challenging traffic profiles
+- Lossless forwarding
+- Arista is member of [Ultra Ethernet Consortium](https://ultraethernet.org/)
 
 ---
 
