@@ -116,30 +116,26 @@ Jun 2024
 
 ---
 
-# AI - Top Market of the Future
-
-<!-- ![ai](https://blogs.arista.com/hs-fs/hubfs/Arista%20(Marketing%20Only)/Images%20(Marketing%20Only)/Blog/JU-Blog-AI-Center.png?width=970&height=467&name=JU-Blog-AI-Center.png) -->
-![bg right](img/800g-dc-dalle.jpg)
-
-- Scale out capacity
-- 800G to compute and zero oversubscription for high non-blocking traffic
-- Hangling challenging traffic profiles
-- Lossless forwarding
-- Arista is member of [Ultra Ethernet Consortium](https://ultraethernet.org/)
-
----
-
 # Arista AVD Ansible Collection
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 22px;}</style>
 
-![bg right w:550](img/provisioning-building-blocks-vertical.png)
+![bg right fit](img/avd-stats-may-2024.png)
 
 - [AVD](https://avd.arista.com/) stands for Arista Validated Design as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
 - A very successful community project used to deploy EVPN based Data Center fabrics
   - Ansible certified since November 2020
   - Around [250 stars on Github](https://github.com/aristanetworks/ansible-avd) and 101 contributors as of June 2024
   - The most active Arista collection on [Ansible Galaxy](https://galaxy.ansible.com/arista/avd)
+
+---
+
+# How AVD Works
+
+<style scoped>section {font-size: 22px;}</style>
+
+![bg right w:550](img/provisioning-building-blocks-vertical.png)
+
 - High level workflow:
   - Define abstracted group/host vars using AVD data model
   - Generate low level device specific variables (aka structured configs)
@@ -211,7 +207,9 @@ automation fusion @Arista:
 <style scoped>section {font-size: 22px;}</style>
 <style scoped>p {font-size: 18px;}</style>
 
-* We all love Ansible `-vvvvvvvvvvvviii!...` 😄
+![bg right fit](img/ansible-vvv-dalle.jpeg)
+
+* We all love Ansible `-vvv` 😄
 * A life changing trick:
 
   - have a container
