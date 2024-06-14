@@ -207,7 +207,7 @@ automation fusion @Arista:
 <style scoped>section {font-size: 22px;}</style>
 <style scoped>p {font-size: 18px;}</style>
 
-![bg right:35% fit](img/ansible-vvv-dalle.jpeg)
+![bg right:30% fit](img/ansible-vvv-dalle.jpeg)
 
 * We all love Ansible `-vvv` 😄
 * A life changing trick:
