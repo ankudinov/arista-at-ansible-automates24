@@ -185,9 +185,10 @@ Automate and walk! 🚶
 
 # Ansible Brings Community Power
 
-![bg right:70% fit](img/ansible-chain-reaction.png)
+![bg right:73%](img/pexels-philippedonn-1257860-edited.png)
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 20px;}</style>
+<style scoped>p {font-size: 20px;}</style>
 
 automation fusion @Arista:
 
