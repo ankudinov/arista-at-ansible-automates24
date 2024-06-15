@@ -282,7 +282,7 @@ automation fusion @Arista:
 
 ![bg right:25%](img/demo-time.jpeg)
 <!-- ![demo](img/avd-codespace-demo-recording.gif) -->
-<iframe width="840" height="472" src="https://www.youtube.com/v/1J6LbFpt_Qs&hl=en&fs=1" title="Short AVD Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/1J6LbFpt_Qs?si=5PVplVjcG12aMpZV" title="Short AVD Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
