@@ -73,7 +73,8 @@ Jun 2024
 
 # $ whoami
 
-<style scoped>section {font-size: 18px;}</style>
+<style scoped>section {font-size: 16px;}</style>
+<style scoped>p {font-size: 22px;}</style>
 
 - Petr Ankudinov [github.com/ankudinov](https://github.com/ankudinov)
 
@@ -88,9 +89,13 @@ Jun 2024
   - Account Manager
   - to-be-defined
 
-![bg right vertical w:200](img/pa-photo.jpg)
-![bg right vertical fit](img/gh-stats.png)
-![bg right w:200](img/david-photo.jpeg)
+- Kaspar Huber
+
+  - Network Engineer at R&S for 2 years
+  - Studied informatics at University of Applied Sciences, Munich
+  - Enjoy `tinkering around` during free time.
+
+![bg right fit](img/photos-combined.png)
 
 ---
 
