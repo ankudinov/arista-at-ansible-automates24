@@ -211,19 +211,19 @@ automation fusion @Arista:
 # A Small Example Of Ecosytem Changing the Game Rules
 
 <style scoped>section {font-size: 22px;}</style>
-<style scoped>p {font-size: 18px;}</style>
+<style scoped>p {font-size: 22px;}</style>
 
 ![bg right:30% fit](img/ansible-vvv-dalle.jpeg)
 
-* We all love Ansible `-vvv` 😄
-* A life changing trick:
+- We all love Ansible `-vvv` 😄
+- A life changing trick:
 
   - have a container
   - open and run the playbook in VSCode
   - `Cmd + Click` (Mac users) on a cryptic error message
-    ![cmd-click](img/error-cmd-click.png)
+    ![cmd-click w:800](img/error-cmd-click.png)
   - Change your code
-    ![change-code](img/container-code-change.png)
+    ![change-code w:800](img/container-code-change.png)
   - Get a meaningful error message
 
     ```text
