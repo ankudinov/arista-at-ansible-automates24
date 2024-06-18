@@ -101,13 +101,14 @@ Jun 2024
 
 # Arista Networks
 
-<style scoped>section {font-size: 24px;}</style>
+<style scoped>section {font-size: 22px;}</style>
 
 ![bg right fit](https://www.arista.com/assets/images/banner/home/800G-launch-Banner-Half.png)
 
-- from IPO in 2014 to 800G AI platforms in 2024
+- founded 2004, IPO 2014
+- 100 Million Ethernet ports and 800G AI platforms
 - used by nearly every Cloud Titan
-- top DC vendor crown since Q4 2023
+- № 1 vendor for DC networking since Q4 2023
 - what helped us to grow
   - single EOS image
   - quality and testing
