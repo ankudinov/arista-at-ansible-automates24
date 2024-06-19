@@ -144,10 +144,10 @@ Jun 2024
 
 ![bg right fit](img/avd-stats-may-2024.png)
 
-- [AVD](https://avd.arista.com/) stands for Arista Validated Design as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
+- [AVD](https://avd.arista.com/) stands for Arista Validated Designs as it was based on the [EVPN Deployment Guide](https://www.arista.com/custom_data/downloads/?f=/support/download/DesignGuides/EVPN_Deployment_Guide.pdf)
 - A very successful community project used to deploy EVPN based Data Center fabrics
   - Ansible certified since November 2020
-  - Around [250 stars on Github](https://github.com/aristanetworks/ansible-avd) and 101 contributors as of June 2024
+  - Currently [250 stars on Github](https://github.com/aristanetworks/ansible-avd) and 101 contributors as of June 2024
   - The most active Arista collection on [Ansible Galaxy](https://galaxy.ansible.com/arista/avd)
 
 ---
@@ -209,7 +209,7 @@ Automate and walk! 🚶
 - Fix and deploy in prod
 - Interactive workshops as a repository
 
-> Easy to share and re-use. Helps to buld more useful content and tools.
+> Easy to share and re-use. Helps to build more useful content and tools.
 
 </div>
 </div>
@@ -326,7 +326,7 @@ automation fusion @Arista:
 
 # Q&A
 
-- [Ansible AVD](https://avd.arista.com/)
+- [Arista AVD](https://avd.arista.com/)
 - [Demo](https://arista-netdevops-community.github.io/one-click-se-demos/cvaas-cvaas-and-avd-demo--evpn-mlag/cvaas-cvaas-and-avd-demo--evpn-mlag/)
 
 ![w:300](img/qr-ansible-automates.png)
