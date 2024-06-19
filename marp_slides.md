@@ -118,7 +118,23 @@ Jun 2024
 
 <style scoped>p {font-size: 18px;}</style>
 
-> Not every switch had API in 2014. Some still managed by CLI screen scraping in 2024.
+---
+
+# What is a Switch?
+
+![bg right fit](img/what-is-a-switch.png)
+
+<style scoped>section {font-size: 20px;}</style>
+<style scoped>p {font-size: 20px;}</style>
+
+- **Short**: A Linux box that handles a lot of PPS (packets-per-second)
+- Linux should be easy to automate. However...
+  - `arista.eos.eos_banner`, `arista.eos.eos_hostname`, `arista.eos.eos_user`, `arista.eos.eos_vlans`, `arista.eos.eos_command`, `arista.eos.eos_acl`, etc.
+  - add/update/remove... maintain
+  - Can we go back to CLI? ⌨️
+- **Result**: Hand crafted configs with errors, CLI screen scraping, etc.
+
+> **A Very Sad Fact**: CLI screen scraping exists in 2024. Fortunately not in Arista world.
 
 ---
 
