@@ -154,10 +154,21 @@ Jun 2024
 
 # How AVD Works
 
-<style scoped>section {font-size: 22px;}</style>
-
 ![bg right w:550](img/provisioning-building-blocks-vertical.png)
 
+<style scoped>section {font-size: 14px;}</style>
+
+- Works well with Ansible CE or Ansible AAP
+- Enviroments: custom, [AVD container images](https://avd.arista.com/4.7/docs/containers/overview.html), [Ansible EEs](https://ansible.readthedocs.io/en/latest/getting_started_ee/index.html)
+- Roles:
+  - `arista.avd.eos_designs`
+    - a set of modules to produce low level variables from abstracted input data using sophisticated fabric logic
+  - `arista.avd.cli_config_gen`
+    - generate Arista EOS cli configuration from a set of templates and variables produced by `eos_designs` role
+  - `arista.avd.cv_deploy` or `arista.avd.eos_config_deploy_eapi`
+    - deploy configurations
+  - `arista.avd.eos_validate_state`
+    - validate operational state of Arista EOS devices (with ANTA)
 - High level workflow:
   - Define abstracted group/host vars using AVD data model
   - Generate low level device specific variables (aka structured configs)
