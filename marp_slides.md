@@ -330,3 +330,19 @@ automation fusion @Arista:
 - [Demo](https://arista-netdevops-community.github.io/one-click-se-demos/cvaas-cvaas-and-avd-demo--evpn-mlag/cvaas-cvaas-and-avd-demo--evpn-mlag/)
 
 ![w:300](img/qr-ansible-automates.png)
+
+---
+
+# References
+
+![bg right](img/pexels-pixabay-159591.jpg)
+
+- Slides
+
+  - [Marp](https://marp.app/)
+
+- Images:
+
+  - [Pexel](https://www.pexels.com/)
+  - [DALL-E](https://openai.com/index/dall-e-3/)
+  - [Excalidraw](https://github.com/excalidraw/excalidraw)
