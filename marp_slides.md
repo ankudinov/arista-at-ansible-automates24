@@ -177,6 +177,21 @@ Jun 2024
 
 ---
 
+# AVD Supported Designs
+
+![bg right fit](img/avd-designs-combined.png)
+
+- AVD is a univesal tool and improving
+- Supported designs:
+
+  - L3LS EVPN
+  - L2LS
+  - MPLS
+  - WAN
+  - Campus
+
+---
+
 # AVD Impact
 
 <style scoped>section {font-size: 18px;}</style>
