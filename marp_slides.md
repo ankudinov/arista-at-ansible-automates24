@@ -180,7 +180,7 @@ Jun 2024
 
 # AVD Supported Designs
 
-![bg right fit](img/avd-designs-combined.png)
+![bg right](img/ring-in-a-web.jpg)
 
 - AVD is a univesal tool and improving
 - Supported designs:
