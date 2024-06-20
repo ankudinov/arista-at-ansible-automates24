@@ -87,7 +87,7 @@ Jun 2024
 - David Meyer
 
   - Account Manager, North / East Germany
-  - Love ski ⛷️ squash 🎾
+  - Love ski ⛷️ and squash 🎾
   - Exploring the world in my free time ✈️
 
 - Kaspar Huber
